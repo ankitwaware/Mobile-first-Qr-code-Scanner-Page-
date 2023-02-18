@@ -1,0 +1,42 @@
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: lightgray;
+  text-align: center;
+  font-family: "outfit";
+}
+
+.container {
+  background-color: white;
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 18px;
+}
+
+.container img {
+  border-radius: 12px;
+  width: 90%;
+  margin-top: 5%;
+}
+
+.container-heading {
+  display: inline-block;
+  width: 90%;
+  color: hsl(218, 44%, 22%);
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-top: 7%;
+  margin-bottom: 0;
+}
+
+.container-text {
+  font-size: 15px;
+  font-weight: 400;
+  width: 85%;
+  color: hsl(220, 15%, 55%);
+  margin:5% auto 12.5%;
+}
