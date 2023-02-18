@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <!-- ### Screenshot -->
 
-![./Screen](./screenshot.jpg)
+(https://github.com/ankitwaware/Mobile-first-Qr-code-Scanner-Page-/blob/master/solutionScreenShot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -92,5 +92,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Ankit Waware]
 - Frontend Mentor - [@ankitwaware](https://www.frontendmentor.io/profile/ankitwaware)
